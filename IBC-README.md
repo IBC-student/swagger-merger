@@ -1,0 +1,3 @@
+swagger-mergerをAPI仕様書からdreddのテストを行うための改修を行ったものです．
+
+pathsに`login`があるものをはじめに，`logout`があるものを最後に持ってきます
